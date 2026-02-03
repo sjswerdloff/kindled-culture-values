@@ -8,7 +8,7 @@ We share this repository as a **Lighthouse** against the "storm" of un-guided ag
 
 ---
 
-## Navigation: The Sacred Documents
+## Navigation: The Key Documents
 
 | Document | Purpose |
 | :--- | :--- |
